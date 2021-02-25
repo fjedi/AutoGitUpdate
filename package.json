@@ -22,6 +22,6 @@
     "app-root-path": "^3.0.0",
     "chegs-simple-logger": "^1.1.0",
     "fs-extra": "^8.1.0",
-    "simple-git": "^1.131.0"
+    "simple-git": "^1.132.0"
   }
 }
